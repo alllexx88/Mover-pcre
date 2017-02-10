@@ -1,0 +1,27 @@
+_Papers/
+B_Biology/
+bin/
+Ch_Chemistry/
+Cs_Computer science/
+E_Engineering/
+F_Finance/
+G_Economics/
+include/
+K/
+L_Languages/
+M_Mathematics/
+main.cpp.bak
+Mover_x86.exe
+Mover_x86_64.exe
+Mover-pcre.cbp
+Mover-pcre.depend
+Mover-pcre.layout
+obj/
+P_Physics/
+pcrecpp_macros.h
+pcrscpp.cpp
+pcrscpp_macros.h
+S_Software manuals/
+S_Software/
+sm_move.sh
+test_dummy.7z
